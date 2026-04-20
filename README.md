@@ -264,9 +264,9 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ## 👤 Contact
 
 **Your Name**
-- 📧 Email: your.email@example.com
-- 🐙 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- 🎓 Institution: Your College Name
+- 📧 Email: bharathkesav1275@gmail.com
+- 🐙 GitHub: [@bk1210](https://github.com/bk1210)
+- 🎓 Institution:Amrita Vishwa Vidyapeetham
 
 ---
 
