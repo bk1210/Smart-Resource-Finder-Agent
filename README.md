@@ -142,7 +142,9 @@ Open your browser at **http://localhost:8501**
 8. Track your progress via the live progress bar
 
 ---
+## 🔄 Pipeline
 
+![Pipeline](pipeline.png)
 ## 🏗️ Architecture
 
 ### Agent Loop — Observe → Think → Act
